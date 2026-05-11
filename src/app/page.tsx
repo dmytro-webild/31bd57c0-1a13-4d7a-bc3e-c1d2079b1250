@@ -46,9 +46,9 @@ export default function LandingPage() {
             title="Stickers for Every Story"
             description="Express your style with our collection of high-quality, durable, and whimsical stickers. Perfect for journals, laptops, and more."
             mediaItems={[
-              { imageSrc: "http://img.b2bpic.net/free-photo/top-view-watercolor-cactus-drawings_23-2148143534.jpg", imageAlt: "vibrant artistic sticker collection desk" },
-              { imageSrc: "http://img.b2bpic.net/free-vector/psychedelic-fast-food-retro-stickers-set_107791-17477.jpg", imageAlt: "cute aesthetic stickers scattered" },
-              { imageSrc: "http://img.b2bpic.net/free-photo/still-life-graphic-design-studio_23-2151320742.jpg", imageAlt: "diverse character stickers arrangement" },
+              { imageSrc: "http://img.b2bpic.net/free-photo/top-view-watercolor-cactus-drawings_23-2148143534.jpg?_wi=1", imageAlt: "vibrant artistic sticker collection desk" },
+              { imageSrc: "http://img.b2bpic.net/free-vector/psychedelic-fast-food-retro-stickers-set_107791-17477.jpg?_wi=1", imageAlt: "cute aesthetic stickers scattered" },
+              { imageSrc: "http://img.b2bpic.net/free-photo/still-life-graphic-design-studio_23-2151320742.jpg?_wi=1", imageAlt: "diverse character stickers arrangement" },
               { imageSrc: "http://img.b2bpic.net/free-photo/creative-florist-taking-selfie_1098-13538.jpg", imageAlt: "vibrant artistic sticker collection desk" },
               { imageSrc: "http://img.b2bpic.net/free-vector/colorful-cute-sticker-collection-vector_53876-164296.jpg", imageAlt: "cute aesthetic stickers scattered" }
             ]}
@@ -84,17 +84,17 @@ export default function LandingPage() {
             description="Curated themes for your unique personality."
             features={[
               {
-                title: "Nature Lovers",                description: "Floral, garden, and plant-themed stickers.",                media: { imageSrc: "http://img.b2bpic.net/free-photo/top-view-watercolor-cactus-drawings_23-2148143534.jpg", imageAlt: "floral botanical sticker pack" },
+                title: "Nature Lovers",                description: "Floral, garden, and plant-themed stickers.",                media: { imageSrc: "http://img.b2bpic.net/free-photo/top-view-watercolor-cactus-drawings_23-2148143534.jpg?_wi=2", imageAlt: "floral botanical sticker pack" },
                 items: [{ icon: Leaf, text: "Eco-friendly materials" }, { icon: Sun, text: "Outdoor durable" }],
                 reverse: false
               },
               {
-                title: "Whimsical Characters",                description: "Adorable illustrations that bring joy.",                media: { imageSrc: "http://img.b2bpic.net/free-vector/psychedelic-fast-food-retro-stickers-set_107791-17477.jpg", imageAlt: "cute cat sticker die cut" },
+                title: "Whimsical Characters",                description: "Adorable illustrations that bring joy.",                media: { imageSrc: "http://img.b2bpic.net/free-vector/psychedelic-fast-food-retro-stickers-set_107791-17477.jpg?_wi=2", imageAlt: "cute cat sticker die cut" },
                 items: [{ icon: Sparkles, text: "High quality finish" }, { icon: Heart, text: "Hand-drawn designs" }],
                 reverse: true
               },
               {
-                title: "Retro Vibes",                description: "Nostalgic 80s and 90s aesthetic.",                media: { imageSrc: "http://img.b2bpic.net/free-photo/still-life-graphic-design-studio_23-2151320742.jpg", imageAlt: "vintage space travel sticker" },
+                title: "Retro Vibes",                description: "Nostalgic 80s and 90s aesthetic.",                media: { imageSrc: "http://img.b2bpic.net/free-photo/still-life-graphic-design-studio_23-2151320742.jpg?_wi=2", imageAlt: "vintage space travel sticker" },
                 items: [{ icon: Star, text: "Vibrant colors" }, { icon: Radio, text: "Classic styles" }],
                 reverse: false
               }
