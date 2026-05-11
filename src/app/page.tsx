@@ -54,15 +54,15 @@ export default function LandingPage() {
       description="Express your style with our collection of high-quality, durable, and whimsical stickers. Perfect for journals, laptops, and more."
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-watercolor-cactus-drawings_23-2148143534.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-watercolor-cactus-drawings_23-2148143534.jpg?_wi=1",
           imageAlt: "vibrant artistic sticker collection desk",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-vector/psychedelic-fast-food-retro-stickers-set_107791-17477.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/psychedelic-fast-food-retro-stickers-set_107791-17477.jpg?_wi=1",
           imageAlt: "cute aesthetic stickers scattered",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/still-life-graphic-design-studio_23-2151320742.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/still-life-graphic-design-studio_23-2151320742.jpg?_wi=1",
           imageAlt: "diverse character stickers arrangement",
         },
         {
@@ -157,7 +157,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-watercolor-cactus-drawings_23-2148143534.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-watercolor-cactus-drawings_23-2148143534.jpg?_wi=2",
           imageAlt: "floral botanical sticker pack",
         },
         {
@@ -178,7 +178,7 @@ export default function LandingPage() {
             },
           ],
           reverse: true,
-          imageSrc: "http://img.b2bpic.net/free-vector/psychedelic-fast-food-retro-stickers-set_107791-17477.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/psychedelic-fast-food-retro-stickers-set_107791-17477.jpg?_wi=2",
           imageAlt: "floral botanical sticker pack",
         },
         {
@@ -199,7 +199,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/still-life-graphic-design-studio_23-2151320742.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/still-life-graphic-design-studio_23-2151320742.jpg?_wi=2",
           imageAlt: "floral botanical sticker pack",
         },
       ]}
